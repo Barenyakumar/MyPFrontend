@@ -30,7 +30,7 @@ function Home() {
         "Content-Type": "application/x-www-form-urlencoded",
         "Access-Control-Allow-Origin": "*",
         Authorization:
-          "Basic mk14IwiNvtWMCQ5a6daDJQeI1TfUave09wf6u0A68F0:lRdd_Pe6grEPb9uFVwzUjnts0qdnCxKzqEYeBOf3cbI",
+          "Basic   RWxqbkk0THRaUGI2NnQ1Q3BfSzJGRXBnM0FkR1FMMFFLRlk5UWs4QmpQSTpkU2UxRE5hc1pNT2dTT1R3eXh4dkpLbnc2X1hCWU14aF91TXd5ZF9DSldZ",
         // "Access-Control-Allow-Methods": "post",
       },
       data: data,

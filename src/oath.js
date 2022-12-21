@@ -17,9 +17,7 @@ export default function Oath() {
   
 
   return (
-    <Button
-      href="https://auth.calendly.com/oauth/authorize?client_id=mk14IwiNvtWMCQ5a6daDJQeI1TfUave09wf6u0A68F0&response_type=code&redirect_uri=http://localhost:3000/&code_challenge_method=S256&code_challenge=CODE_CHALLENGE"
-    >
+    <Button href="https://auth.calendly.com/oauth/authorize?client_id=EljnI4LtZPb66t5Cp_K2FEpg3AdGQL0QKFY9Qk8BjPI&response_type=code&redirect_uri=http://localhost:3000/&code_challenge_method=S256&code_challenge=CODE_CHALLENGE">
       Connect
     </Button>
   )
